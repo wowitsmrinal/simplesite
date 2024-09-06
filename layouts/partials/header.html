@@ -1,9 +1,9 @@
 <nav class="navigation">
   <section class="container">
     {{ with .Site }}
-    <a class="navigation-title" href="{{ absLangURL "" }}">
-      {{ .Title }}
-    </a>
+    <!-- <a class="navigation-title" href="{{ absLangURL "" }}"> -->
+      <!-- {{ .Title }} -->
+    <!-- </a> -->
     {{ end }}
     {{ if or .Site.Menus.main hugo.IsMultilingual }}
       <input type="checkbox" id="menu-toggle" />
