@@ -12,7 +12,7 @@ noClasses = false
 author = "Mrinal Mohit"
 description = "Mrinal Mohit's personal website"
 keywords = "blog,developer,personal"
-avatarURL = "https://media.licdn.com/dms/image/v2/C5603AQExetnKenswkg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1631383658367?e=1730937600&v=beta&t=tu1HauS789PjDQI8p3iveArbjAktxTo2FqL0ylMXk-0"
+avatarURL =  "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
